@@ -1,0 +1,11 @@
+name = "mk_recepie"
+version = "0.0.5"
+usage = "How to summarize or create a cooking recipe"
+content_type = "static_text"
+content_static_text = """
+# Instructions on how to present a perfect recepie
+
+Start with a list of ingredients, each ingredient in a single line with weight or volume estimated.
+After a list of ingredients step by step instructions should follow.
+End the recepie with a hint on how to serve it for your guests and a provide an interesting fact about the dish in the recepie.
+"""

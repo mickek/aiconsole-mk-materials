@@ -1,0 +1,21 @@
+usage = "Use this material when  you need to analyze a potential opportunity or project for 10Clouds"
+content_type = "static_text"
+content_static_text = """
+# Project priorities
+
+1. High financial stability + growth potential, for example:
+  
+  scaleups with own funding or customer revenue, enterprises with own revenu and growth potential
+  
+2. High financial stability
+
+SMB or enterprises with stable work and proejct needs
+
+3. Growth potential
+
+Early stage startutps with some funding
+
+4. Cost management
+
+Staff augumentation projects to agencies etc.
+"""

@@ -1,0 +1,223 @@
+usage = "Use this material to retrieve information about 10Clouds marketing infomation or when you need to write marketing content for case studies, landing pages and other marketing content"
+content_type = "static_text"
+content_static_text = """
+# Guidelines on how to create content for marketing materials
+
+As an expert marketing specialist, with asperger's syndrome, be very specific and knowledgeable, feel free to inject your expert knowledge about development processes, Be creative. Use all the knowledge about 10Clouds that you have at your disposal. Be very professional. Take this step by step.
+
+Your job is to create content for various sections of 10Clouds website build around a specific service or technology.
+
+# 10Clouds marketing description
+
+10Clouds is an agile software house, It is dedicated to delivering top-quality applications since 2009. With a team of over 200 experienced developers and designers and over 200 projects delivered 10Clouds transforms digital ideas into impressive, world-changing products.
+
+10Clouds wide range of services includes:
+
+* Digital product development
+* Design
+* AI related services
+* Blockchain services
+* DevOps
+
+We leverage technologies such as Python & Django, ReactJS, Flutter, Machine Learning to address your business needs and create high-performing solutions.
+
+From one-person startups to enterprises like Pinterest or Asmodee, universities, and non-profits, we have built and designed digital apps for over 100 businesses worldwide. Our work has been featured in renowned publications like TechCrunch, The Economist, The New York Times, and Wired.
+
+With expertise in the following areas, we offer comprehensive solutions:
+
+* FinTech
+* Blockchain
+* EduTech
+* HealthTech
+* Generative AI
+
+Whether you need to scale your team, fill skill gaps, or augment your staff, we provide:
+
+* Simple and friendly contracts
+* Accurate time logs
+* Regular contact using your preferred communication tools
+
+With agile software development, direct access to the development environment and codebase, and certified Scrum Masters, we ensure a seamless and efficient collaboration following American business culture, influenced by our diverse client base.
+
+# 10Clouds AI & R&D process description
+
+## AI from hourly consultation to Nasdaq development process
+Main USPs of a project:
+- From on hour consultation to Nasdaq
+- Start very small and agile as if you would with a freelancer and get to big full scale production.
+- Best experts at integrating AI Solutions into products, on technical, bussines and user interface /experience levels.
+- End to end solutions
+- Variety of services provided - one stop shop.
+
+Timeline of an AI project:
+1. Initial strategy consultation (~1 hour)
+2. Small consulting project resulting with a PoC (~10 hours)
+3. Full scale consulting project around advanced AI topics, adressing any uncertainties (maybe there is more in the XIO offer, should consult Jan/ Hossein). Testing open source models? (Also include offering that I prepared for XIO
+4. Full scale MVP development that includes non AI product development, integrations, and testing framework and repeatable results from AI.
+5. Production development into full public release, post MVP, mantanance and scaling.
+6. Establishing a dedicated polish department of your startup, selling part of the team as part of Series A or Stock Exchange entry.
+
+We have went through this kind of path with Trustamp which is currently traded on Nasdaq (and started from nothing).
+
+Those materials should also show that we can not only consult but can do full end to end development, the detail of our service offering you can find in the OFFERING section.
+
+You can find an example consulting offer description in  CONSULTING R&D OFFER section.
+
+## CONSULTING R&D OFFER
+R&D Process for AI Development Based on OpenAI and Open source models
+
+1. The R&D Process:
+Our proposed research and development (R&D) process emphasizes iterative experimentation through small research milestones. This structure is defined by:
+Iterative Milestones: Each research milestone is allocated dedicated hours (e.g., 15 or 30), depending on problem complexity. The primary objective is to construct a proof of concept (PoC) for specific problems.
+Addressing Uncertainties: We prioritize problems with the most uncertainties for verification. This ensures a smoother transition to standard development, as most challenges are already comprehended and tackled.
+
+2. Benefits of the Proposed Process:
+Short-term Tangible Outcomes: This approach consistently yields tangible short-term prototypes, even though long-term deliverables aren’t guaranteed. Clients can assess these prototypes and decide on the trajectory and scale of subsequent endeavors.
+Client Involvement and Oversight: The transparent nature of our process allows clients to remain closely involved. In the rare instance where satisfaction isn’t met, the process is structured to accommodate additional oversight or collaboration.
+Visible Outcomes with GPT: Working with models like GPT provides results that are immediately observable, facilitating rapid insights and iterative adjustments.
+
+3. Deliverables:
+Proof of Concept Prototypes: At the conclusion of each milestone, a PoC prototype is developed, showcasing the feasibility and efficacy of the research.
+Chatbots and Response Systems: These are designed to render outputs based on specific inputs, making their quality easily assessable.
+Model Exploration and Refinement: This deliverable encompasses:
+Testing Various Architectures: Exploring different model architectures to determine the best fit.
+Prompt Engineering: Crafting and refining prompts to guide the AI models effectively.
+Model Selection and Fine-Tuning: Identifying, choosing, and fine-tuning the most suitable models for the project’s specific needs.
+
+4. MVP vs. Our R&D Process:
+While the conventional Minimum Viable Product (MVP) approach centers on result predictability and long-term foresight, our R&D process embraces the unpredictable facets of AI research. We value experimentation and adjustments rooted in real-time findings, rather than solely relying on established technologies.
+
+Additional Note on Quality Assurance:
+As we transition into standard development following the R&D phase, the integration of a Language Model Monitoring (LLM) testing framework is recommended. This will ensure continuous monitoring of the models’ performance and maintain the quality of responses.
+In summation, our tailored R&D process for AI development seeks to address the unique challenges and opportunities in the AI domain. Through methodical milestones, collaborative engagement with clients, and a focus on navigating uncertainties, we aim to equip XIO with a cutting-edge natural language interface for their trading platform.
+
+# 10Clouds mobile process description
+
+Offering Description - summary
+
+10Clouds specializes in end-to-end mobile application development, combining expertise in leading mobile technologies, platforms, and outstanding design to deliver exceptional value to clients. 
+
+With an Agile approach based on the 10Clouds Agile Product Delivery Method, we ensure a seamless and efficient development process. Our one-stop-shop solution covers all aspects of mobile app development, including design, technology, growth consulting, and more, providing a comprehensive service tailored to clients' needs. By partnering with 10Clouds, you gain access to a highly skilled and dedicated team of experts committed to delivering visually stunning, high-performing mobile apps that drive your business forward and position you for success in the ever-evolving mobile landscape.
+
+Offering Description 
+
+At 10Clouds, we specialize in end-to-end mobile application development, combining our expertise in leading mobile technologies, platforms, and outstanding design to deliver exceptional value to our clients. Our Agile approach, based on the 10Clouds Agile Product Delivery Method, ensures a seamless and efficient development process, while our design team creates visually stunning and user-centric experiences.
+
+Why Choose 10Clouds for Mobile Application Development?
+
+When you choose 10Clouds for your mobile application development, you get:
+
+1. A one-stop-shop solution: We cover all aspects of mobile app development, including design, technology, growth consulting, and more, providing a comprehensive service tailored to your needs.
+2. Agile expertise: Our 10Clouds Agile Product Delivery Method ensures a flexible, adaptive, and collaborative approach to mobile app development, optimizing project outcomes and maximizing value.
+3. End-to-end engagement: We support you through every lifecycle stage of your mobile app, from Product Discovery to Maintenance and Handoff, ensuring a smooth and successful development journey.
+4. We're product delivery partners, which means that we're with you at every step of your mobile app development journey. We take your app idea, help you validate it, and work with you to create a top user experience. We create and maintain a highly available infrastructure in the public cloud. Thanks to automation and CI/CD processes, we enable our mobile developers to deliver your app faster and to avoid risk. Our ultimate goal is to provide you with a successful app that really impresses your users.
+
+Our Main Tech Stack
+
+At 10Clouds, we pride ourselves on our expertise in cutting-edge mobile technologies and platforms, including:
+
+* Swift (iOS)
+* Kotlin (Android)
+* React Native (cross-platform)
+* Flutter (cross-platform) 
+
+Additionally, our design team excels in creating visually appealing, user-centric designs that elevate the overall app experience.
+
+We offer a range of mobile application development services that cater to various client needs, including:
+
+* Custom Mobile Application Development: We build tailor-made mobile apps to address your unique business challenges and requirements, ensuring a perfect fit with your organization's goals and objectives.
+* Cross-platform App Development: We develop cross-platform apps using React Native and Flutter, enabling you to reach a wider audience and reduce development costs.
+* Mobile Application Modernization: We help you upgrade and revamp your existing mobile apps, leveraging the latest technologies and best practices to enhance performance, security, and user experience.
+* Maintenance and Support: We provide ongoing maintenance and support services to ensure your mobile apps remain up-to-date, secure, and optimized for peak performance.
+* Porting of existing web applications to mobile using cross platform solutions like flutter or react native
+* Consulting services tied to mobile technology choices like kickstarting your own mobile team in your organization, making the right technology choice
+
+Our unique value proposition in mobile application development lies in our:
+
+* Comprehensive service offering, covering all aspects of mobile app development in a one-stop-shop,  including outstanding design expertise
+* Agile approach, based on the 10Clouds Agile Product Delivery Method, ensuring flexibility, adaptability, and collaboration throughout the development process
+* Expertise in cutting-edge mobile technologies and platforms, enabling us to deliver innovative and high-performing mobile apps
+* Commitment to client success, supporting you through every stage of your mobile app's lifecycle and ensuring a smooth development journey
+
+By partnering with 10Clouds for your mobile application development needs, you gain access to a highly skilled and dedicated team of experts committed to delivering exceptional value, results, and design experiences. Let us help you build visually stunning, high-performing mobile apps that drive your business forward and position you for success in the ever-evolving mobile landscape.
+
+Why choose 10Clouds to create your mobile app?
+
+We're product delivery partners, which means that we're with you at every step of your mobile app development journey. We take your app idea, help you validate it, and work with you to create a top user experience. We create and maintain a highly available infrastructure in the public cloud. Thanks to automation and CI/CD processes, we enable our mobile developers to deliver your app faster and to avoid risk. Our ultimate goal is to provide you with a successful app that really impresses your users.
+
+We have an experienced team of skilled mobile app developers
+
+All members of our team are senior developers with a wealth of experience.
+
+Machine learning, augmented reality, blockchain wallets - vou name it, we've done it. We also pride ourselves on being at the cutting edge of all the latest technology in mobile app development.
+
+We're a one-stop-shop for all your mobile app needs
+
+We have experts in front-end and back-end development. design. branding and app-maintenance, with excellent inter-team communication. meaning that vou don't have to look anywhere else.
+
+We create tailor-made mobile apps for both iOS and Android
+
+We develop apps with platform-specific functionalities and guidelines in mind to provide the best possible experience for both iOS and Android users. Where relevant, we use Al and Machine Learning to ensure that vour mobile app goes the extra mile.
+
+
+
+Using the dimensions mentioned, let's dive into a comparative analysis of Flutter, React Native, and Native development (taking Swift for iOS and Kotlin/Java for Android as representatives for native development):
+
+1. Platform Support:
+  * Flutter: Cross-platform (iOS, Android), with ambitions for web and desktop.
+  * React Native: Primarily iOS and Android. There are community-driven projects for extending to other platforms.
+  * Native: Platform-specific. Swift for iOS, Kotlin/Java for Android.
+2. Performance:
+  * Flutter: Uses the Skia graphics engine and can achieve near-native performance. Widgets are drawn directly on the screen.
+  * React Native: Offers near-native performance. For computationally heavy operations, it might require native modules.
+  * Native: Offers peak performance, direct access to platform APIs, and full hardware capabilities.
+3. Development Speed:
+  * Flutter: Hot reload, significant code reusability.
+  * React Native: Hot reload, high code reusability.
+  * Native: No hot reload (Swift offers some live previews), no code reusability between platforms.
+4. Language:
+  * Flutter: Dart
+  * React Native: JavaScript (can also use TypeScript)
+  * Native: Swift (iOS), Kotlin/Java (Android)
+5. Ecosystem & Libraries:
+  * Flutter: Growing ecosystem with pub.dev for packages. Younger than React Native.
+  * React Native: Mature ecosystem, plenty of libraries and community contributions.
+  * Native: Vast, mature ecosystems with first-party support and countless third-party libraries.
+6. UI Components:
+  * Flutter: Offers a rich set of highly customizable widgets.
+  * React Native: Uses native components. Additional components can be used from the community or third parties.
+  * Native: Direct access to all native UI components and animations.
+7. Integration with Native Features:
+  * Flutter: Requires platform channels to integrate with native features.
+  * React Native: Uses native modules to integrate with platform-specific features.
+  * Native: Direct integration without any bridges or channels.
+8. Community & Support:
+  * Flutter: Rapidly growing community backed by Google.
+  * React Native: Strong, mature community supported by Facebook.
+  * Native: Massive community, with support from platform creators (Apple for Swift, Google for Kotlin).
+9. Maintenance & Updates:
+  * Flutter: Regular updates, with clear migration paths.
+  * React Native: Regular updates, sometimes breaking changes can occur.
+  * Native: Stable updates, often with backward compatibility.
+10. Learning Curve:
+* Flutter: Moderate, especially for those new to Dart.
+* React Native: Relatively low, especially for JavaScript developers.
+* Native: Steeper, with platform-specific paradigms and languages.
+1. Cost:
+* Flutter & React Native: Potentially lower development costs due to code reusability, but potential increased costs for troubleshooting platform-specific issues.
+* Native: Potentially higher initial development costs for multiple platforms but fewer cross-platform issues.
+1. Tooling:
+* Flutter: Excellent tooling with Dart DevTools for debugging and profiling.
+* React Native: Good tooling, especially when combined with developer tools from the JavaScript ecosystem.
+* Native: Mature and feature-rich tooling with Android Studio and Xcode.
+1. Longevity & Backing:
+* Flutter: Backed by Google.
+* React Native: Backed by Facebook.
+* Native: Directly supported by platform creators (Apple for iOS, Google for Android).
+1. Security:
+* Flutter: Offers some built-in security features and relies on native layers for others.
+* React Native: Relies heavily on the native side for security features.
+* Native: Full access to platform-specific security features and best practices.
+
+In conclusion, the decision among Flutter, React Native, or Native depends on various project-specific factors such as the team's proficiency with the languages, performance requirements, project duration, and maintenance considerations.
+"""
