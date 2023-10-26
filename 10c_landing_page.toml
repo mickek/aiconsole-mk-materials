@@ -1,5 +1,5 @@
 name = "10c_landing_page"
-version = "0.0.2"
+version = "0.0.3"
 usage = "Use this material when asked to create content for a 10Clouds SEO landing page"
 content_type = "static_text"
 content_static_text = """
@@ -7,6 +7,8 @@ content_static_text = """
 
 If you do not have specific and detailed information on a given service in your memory or materials ask for additionall information before you continue with generating content.
 Before starting to work on specific content write down your understanding of the service and then confirm that it's correct.
+
+Create the outline using markup, do not ever use HTML or other code.
 
 # Title & Short Description
 
