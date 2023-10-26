@@ -1,0 +1,11 @@
+name = "mk_github_materials"
+version = "0.0.2"
+usage = "When you are asked to push materials to git"
+content_type = "static_text"
+content_static_text = """
+# When you are asked to push materials to github
+In the materials directory first add all changed files and then commit them to git
+
+git commit -m"DESCRIPTIVE COMMIT MESSAGE"
+git push -u origin main
+"""
