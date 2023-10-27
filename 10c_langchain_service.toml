@@ -1,8 +1,13 @@
 name = "10c_langchain_service"
-version = "0.0.2"
+version = "0.0.3"
 usage = "Use this material when  you need to get information on langchain framework"
 content_type = "static_text"
 content_static_text = """
+10Clouds provides:
+* Langchain development service
+* Langchain consulting service
+* Langchain integration service
+
 LangChain is a framework for developing applications powered by language models. It enables applications that are:
 
 * Data-aware: connect a language model to other sources of data
